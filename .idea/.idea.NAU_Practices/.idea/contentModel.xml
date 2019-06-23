@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\pzaloznyi\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\pzaloznyi\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\pzaloznyi\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_NAU_Practices.276043521.00" t="ExcludeRecursive" />
+    <e p="D:\git\practices" t="IncludeFlat">
+      <e p="NAU_Practices" t="IncludeRecursive">
+        <e p="BaseSort.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BubbleSortWithFlag.cs" t="Include" />
+        <e p="BubbleSortWithFlagAndPosition.cs" t="Include" />
+        <e p="InsertionSortSimple.cs" t="Include" />
+        <e p="NAU_Practices.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="SelectionBubbleSort.cs" t="Include" />
+        <e p="SelectionSortMinAndMax.cs" t="Include" />
+        <e p="SelectionSortMinOrMax.cs" t="Include" />
+        <e p="ShakerSort.cs" t="Include" />
+        <e p="Student.cs" t="Include" />
+      </e>
+      <e p="NAU_Practices.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

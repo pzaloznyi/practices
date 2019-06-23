@@ -1,4 +1,6 @@
 using System;
+using System.Linq;
+using Newtonsoft.Json;
 
 namespace NAU_Practices
 {
@@ -10,7 +12,25 @@ namespace NAU_Practices
         {
             Students = students;
         }
-        
-        public abstract Student[] Sort(Func<Student, Student, bool> condition);
+
+        public abstract void Sort();
+
+        public int[] Find(Func<FindStudent, bool> condition)
+        {
+            Console.WriteLine(JsonConvert.SerializeObject(Students));
+            return Students.Select((s, i) => new FindStudent(s, i)).Where(condition).Select(f => f.Index).ToArray();
+        }
+    }
+
+    public class FindStudent
+    {
+        public FindStudent(Student student, int index)
+        {
+            Student = student;
+            Index = index;
+        }
+
+        public int Index { get; set; }
+        public Student Student { get; set; }
     }
 }

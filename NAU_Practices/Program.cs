@@ -21,27 +21,45 @@ namespace NAU_Practices
 
         public static void Main()
         {
-            Console.WriteLine(SortStudents(AlgorithmType.SelectionSort, (s1, s2) => !s1.HasScholarship && s1.Course == 2).ToJson());
-            Console.WriteLine(SortStudents(AlgorithmType.BubbleSort, (s1, s2) => !s2.HasScholarship && s2.Course == 2).ToJson());
+            Print(AlgorithmType.SelectionSortMinOrMax);
+            Print(AlgorithmType.SelectionSortMinAndMax);
+            Print(AlgorithmType.BubbleSort);
+            Print(AlgorithmType.BubbleSortWithFlag);
+            Print(AlgorithmType.BubbleSortWithFlagAndPosition);
+            Print(AlgorithmType.ShakerSort);
+            Print(AlgorithmType.InsertionSortSimple);
         }
 
-        private static Student[] SortStudents(AlgorithmType algorithmType, Func<Student, Student, bool> condition)
+        static void Print(AlgorithmType type)
         {
-            return Algorithms[algorithmType].Sort(condition);
+            var sortAlgorithm = Algorithms[type];
+            sortAlgorithm.Sort();
+            
+            Console.WriteLine(string.Join(", ", sortAlgorithm.Find(s => !s.Student.HasScholarship && s.Student.Course == 2)));
         }
 
         static readonly Dictionary<AlgorithmType, BaseSort> Algorithms =
             new Dictionary<AlgorithmType, BaseSort>
         {
-            [AlgorithmType.SelectionSort] = new SelectionSort(InitStudents()), 
-            [AlgorithmType.BubbleSort] = new BubbleSort(InitStudents()), 
+            [AlgorithmType.SelectionSortMinOrMax] = new SelectionSortMinOrMax(InitStudents()), 
+            [AlgorithmType.SelectionSortMinAndMax] = new SelectionSortMinAndMax(InitStudents()), 
+            [AlgorithmType.BubbleSort] = new SelectionBubbleSort(InitStudents()),
+            [AlgorithmType.BubbleSortWithFlag] = new BubbleSortWithFlag(InitStudents()),
+            [AlgorithmType.BubbleSortWithFlagAndPosition] = new BubbleSortWithFlagAndPosition(InitStudents()),
+            [AlgorithmType.ShakerSort] = new ShakerSort(InitStudents()),
+            [AlgorithmType.InsertionSortSimple] = new InsertionSortSimple(InitStudents()),
         };
     }
 
     public enum AlgorithmType
     {
-        SelectionSort = 1,
-        BubbleSort = 3
+        SelectionSortMinOrMax = 1,
+        SelectionSortMinAndMax = 2,
+        BubbleSort = 3,
+        BubbleSortWithFlag = 4,
+        BubbleSortWithFlagAndPosition = 5,
+        ShakerSort = 6,
+        InsertionSortSimple = 7
     }
 
 }
