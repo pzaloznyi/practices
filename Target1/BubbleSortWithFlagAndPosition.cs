@@ -1,14 +1,16 @@
+using Target2;
+
 namespace NAU_Practices
 {
     public class BubbleSortWithFlagAndPosition : BaseSort
     {
-        public BubbleSortWithFlagAndPosition(Student[] students) : base(students)
+        public BubbleSortWithFlagAndPosition(DoubleLinkedList<Student> students) : base(students)
         {
         }
 
         public override void Sort()
         {
-            var n = Students.Length;
+            var n = Students.Count;
 
             do
             {

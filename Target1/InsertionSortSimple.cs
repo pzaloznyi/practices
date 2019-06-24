@@ -1,14 +1,16 @@
+using Target2;
+
 namespace NAU_Practices
 {
     public class InsertionSortSimple : BaseSort
     {
-        public InsertionSortSimple(Student[] students) : base(students)
+        public InsertionSortSimple(DoubleLinkedList<Student> students) : base(students)
         {
         }
 
         public override void Sort()
         {
-            for (var i = 1; i < Students.Length; i++)
+            for (var i = 1; i < Students.Count; i++)
             {
                 var cur = Students[i];
                 var j = i;

@@ -1,10 +1,12 @@
+using Target2;
+
 namespace NAU_Practices
 {
     internal class SelectionBubbleSort : BaseSort
     {
         public override void Sort()
         {
-            for (var k = Students.Length - 1; k > 0; k--)
+            for (var k = Students.Count - 1; k > 0; k--)
             for (var i = 0; i < k; i++)
                 if (Students[i].Course > Students[i + 1].Course)
                 {
@@ -14,7 +16,7 @@ namespace NAU_Practices
                 }
         }
 
-        public SelectionBubbleSort(Student[] students) : base(students)
+        public SelectionBubbleSort(DoubleLinkedList<Student> students) : base(students)
         {
         }
     }

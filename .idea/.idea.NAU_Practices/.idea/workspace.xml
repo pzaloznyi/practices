@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5863cef1-26fa-4106-84ea-12599f823be1" name="Default Changelist" comment="" />
+    <list default="true" id="5863cef1-26fa-4106-84ea-12599f823be1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Target2/DoubleLinkedList.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Target2/Node.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NAU_Practices/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NAU_Practices/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/BaseSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/BaseSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/BubbleSortWithFlag.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/BubbleSortWithFlag.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/BubbleSortWithFlagAndPosition.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/BubbleSortWithFlagAndPosition.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/InsertionSortSimple.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/InsertionSortSimple.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/SelectionBubbleSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/SelectionBubbleSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/SelectionSortMinAndMax.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/SelectionSortMinAndMax.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/SelectionSortMinOrMax.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/SelectionSortMinOrMax.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/ShakerSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/ShakerSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target1/Target1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Target1/Target1.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Target2/Target2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Target2/Target2.csproj" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,153 +24,178 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NAU_Practices/BaseSort.cs">
+        <entry file="file://$PROJECT_DIR$/Target2/DoubleLinkedList.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="298">
+              <caret line="114" column="42" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
               <folding>
-                <marker date="1561357902520" expanded="false" signature="6:55" ph="..." />
-                <marker date="1561357902520" expanded="true" signature="80:846" ph="{...}" />
-                <marker date="1561357902520" expanded="true" signature="117:584" ph="{...}" />
-                <marker date="1561357902520" expanded="true" signature="218:271" ph="{...}" />
-                <marker date="1561357902520" expanded="true" signature="371:578" ph="{...}" />
-                <marker date="1561357902520" expanded="true" signature="614:844" ph="{...}" />
-                <marker date="1561357902520" expanded="true" signature="675:753" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="6:59" ph="..." />
+                <marker date="1561360076542" expanded="true" signature="78:3598" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="128:3596" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="257:553" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="392:494" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="591:884" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="939:1015" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="1051:1952" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="1135:1314" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="1196:1259" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="1348:1915" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="1404:1502" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="1523:1605" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="1652:1746" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="1767:1845" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="2058:2154" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="2192:2460" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="2275:2423" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="2509:2586" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="2641:2845" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="2724:2835" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="2893:3101" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="2976:3091" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="3137:3170" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="3217:3293" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="3334:3410" ph="{...}" />
+                <marker date="1561360076542" expanded="true" signature="3444:3590" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NAU_Practices/Student.cs">
+        <entry file="file://$PROJECT_DIR$/Target1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="90">
+              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding>
-                <marker date="1561356725016" expanded="true" signature="23:391" ph="{...}" />
-                <marker date="1561356725016" expanded="true" signature="50:389" ph="{...}" />
-                <marker date="1561356725016" expanded="true" signature="125:244" ph="{...}" />
+                <marker date="1561359729048" expanded="false" signature="6:62" ph="..." />
+                <marker date="1561359729048" expanded="true" signature="87:2602" ph="{...}" />
+                <marker date="1561359729048" expanded="true" signature="116:2330" ph="{...}" />
+                <marker date="1561359729048" expanded="true" signature="186:817" ph="{...}" />
+                <marker date="1561359729048" expanded="true" signature="852:1246" ph="{...}" />
+                <marker date="1561359729048" expanded="true" signature="1293:1537" ph="{...}" />
+                <marker date="1561359729048" expanded="true" signature="1672:2323" ph="{...}" />
+                <marker date="1561359729048" expanded="true" signature="2361:2599" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NAU_Practices/InsertionSortSimple.cs">
+        <entry file="file://$PROJECT_DIR$/Target1/SelectionBubbleSort.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="225">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding>
-                <marker date="1561357958985" expanded="true" signature="23:600" ph="{...}" />
-                <marker date="1561357958985" expanded="true" signature="73:598" ph="{...}" />
-                <marker date="1561357958985" expanded="true" signature="151:171" ph="{...}" />
-                <marker date="1561357958985" expanded="true" signature="208:592" ph="{...}" />
-                <marker date="1561357958985" expanded="true" signature="272:582" ph="{...}" />
-                <marker date="1561357958985" expanded="true" signature="421:533" ph="{...}" />
+                <marker date="1561359553920" expanded="true" signature="39:605" ph="{...}" />
+                <marker date="1561359553920" expanded="true" signature="91:603" ph="{...}" />
+                <marker date="1561359553920" expanded="true" signature="133:488" ph="{...}" />
+                <marker date="1561359553920" expanded="true" signature="305:478" ph="{...}" />
+                <marker date="1561359553920" expanded="true" signature="577:597" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NAU_Practices/SelectionSortMinAndMax.cs">
+        <entry file="file://$PROJECT_DIR$/Target2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <marker date="1561356725014" expanded="true" signature="23:667" ph="{...}" />
-                <marker date="1561356725014" expanded="true" signature="76:665" ph="{...}" />
-                <marker date="1561356725014" expanded="true" signature="157:177" ph="{...}" />
-                <marker date="1561356725014" expanded="true" signature="214:659" ph="{...}" />
-                <marker date="1561356725014" expanded="true" signature="316:649" ph="{...}" />
-                <marker date="1561356725014" expanded="true" signature="462:635" ph="{...}" />
+                <marker date="1561358723937" expanded="true" signature="17:127" ph="{...}" />
+                <marker date="1561358723937" expanded="true" signature="46:125" ph="{...}" />
+                <marker date="1561358723937" expanded="true" signature="99:119" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NAU_Practices/SelectionBubbleSort.cs">
+        <entry file="file://$PROJECT_DIR$/Target1/SelectionSortMinAndMax.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding>
-                <marker date="1561357074959" expanded="true" signature="23:574" ph="{...}" />
-                <marker date="1561357074959" expanded="true" signature="75:572" ph="{...}" />
-                <marker date="1561357074959" expanded="true" signature="117:473" ph="{...}" />
-                <marker date="1561357074959" expanded="true" signature="290:463" ph="{...}" />
-                <marker date="1561357074959" expanded="true" signature="546:566" ph="{...}" />
+                <marker date="1561359159176" expanded="true" signature="39:698" ph="{...}" />
+                <marker date="1561359159176" expanded="true" signature="92:696" ph="{...}" />
+                <marker date="1561359159176" expanded="true" signature="189:209" ph="{...}" />
+                <marker date="1561359159176" expanded="true" signature="246:690" ph="{...}" />
+                <marker date="1561359159176" expanded="true" signature="347:680" ph="{...}" />
+                <marker date="1561359159176" expanded="true" signature="493:666" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NAU_Practices/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Target1/SelectionSortMinOrMax.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+            <state relative-caret-position="180">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding>
-                <marker date="1561358453572" expanded="false" signature="6:47" ph="..." />
-                <marker date="1561358453572" expanded="true" signature="72:2423" ph="{...}" />
-                <marker date="1561358453572" expanded="true" signature="177:637" ph="{...}" />
-                <marker date="1561358453572" expanded="true" signature="1114:1358" ph="{...}" />
-                <marker date="1561358453572" expanded="true" signature="1493:2144" ph="{...}" />
-                <marker date="1561358453572" expanded="true" signature="2182:2420" ph="{...}" />
+                <marker date="1561359544632" expanded="true" signature="39:814" ph="{...}" />
+                <marker date="1561359544632" expanded="true" signature="91:812" ph="{...}" />
+                <marker date="1561359544632" expanded="true" signature="187:207" ph="{...}" />
+                <marker date="1561359544632" expanded="true" signature="244:806" ph="{...}" />
+                <marker date="1561359544632" expanded="true" signature="344:796" ph="{...}" />
+                <marker date="1561359544632" expanded="true" signature="440:620" ph="{...}" />
+                <marker date="1561359544632" expanded="true" signature="525:602" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlag.cs">
+        <entry file="file://$PROJECT_DIR$/Target1/ShakerSort.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            <state relative-caret-position="90">
+              <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
               <folding>
-                <marker date="1561357449354" expanded="true" signature="23:814" ph="{...}" />
-                <marker date="1561357449354" expanded="true" signature="72:812" ph="{...}" />
-                <marker date="1561357449354" expanded="true" signature="149:169" ph="{...}" />
-                <marker date="1561357449354" expanded="true" signature="206:806" ph="{...}" />
-                <marker date="1561357449354" expanded="true" signature="399:737" ph="{...}" />
-                <marker date="1561357449354" expanded="true" signature="486:719" ph="{...}" />
+                <marker date="1561359437380" expanded="true" signature="39:998" ph="{...}" />
+                <marker date="1561359437380" expanded="true" signature="80:996" ph="{...}" />
+                <marker date="1561359437380" expanded="true" signature="165:185" ph="{...}" />
+                <marker date="1561359437380" expanded="true" signature="222:816" ph="{...}" />
+                <marker date="1561359437380" expanded="true" signature="336:806" ph="{...}" />
+                <marker date="1561359437380" expanded="true" signature="401:546" ph="{...}" />
+                <marker date="1561359437380" expanded="true" signature="623:768" ph="{...}" />
+                <marker date="1561359437380" expanded="true" signature="865:990" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlagAndPosition.cs">
+        <entry file="file://$PROJECT_DIR$/Target1/BaseSort.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            <state relative-caret-position="150">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
               <folding>
-                <marker date="1561357637042" expanded="true" signature="23:764" ph="{...}" />
-                <marker date="1561357637042" expanded="true" signature="83:762" ph="{...}" />
-                <marker date="1561357637042" expanded="true" signature="171:191" ph="{...}" />
-                <marker date="1561357637042" expanded="true" signature="228:756" ph="{...}" />
-                <marker date="1561357637042" expanded="true" signature="383:690" ph="{...}" />
+                <marker date="1561359533200" expanded="false" signature="6:104" ph="..." />
+                <marker date="1561359533200" expanded="true" signature="129:934" ph="{...}" />
+                <marker date="1561359533200" expanded="true" signature="166:672" ph="{...}" />
+                <marker date="1561359533200" expanded="true" signature="288:359" ph="{...}" />
+                <marker date="1561359533200" expanded="true" signature="459:666" ph="{...}" />
+                <marker date="1561359533200" expanded="true" signature="702:932" ph="{...}" />
+                <marker date="1561359533200" expanded="true" signature="763:841" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NAU_Practices/ShakerSort.cs">
+        <entry file="file://$PROJECT_DIR$/Target1/InsertionSortSimple.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            <state relative-caret-position="180">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
               <folding>
-                <marker date="1561358412163" expanded="true" signature="23:967" ph="{...}" />
-                <marker date="1561358412163" expanded="true" signature="64:965" ph="{...}" />
-                <marker date="1561358412163" expanded="true" signature="133:153" ph="{...}" />
-                <marker date="1561358412163" expanded="true" signature="190:785" ph="{...}" />
-                <marker date="1561358412163" expanded="true" signature="305:775" ph="{...}" />
-                <marker date="1561358412163" expanded="true" signature="370:515" ph="{...}" />
-                <marker date="1561358412163" expanded="true" signature="592:737" ph="{...}" />
-                <marker date="1561358412163" expanded="true" signature="834:959" ph="{...}" />
+                <marker date="1561359147963" expanded="true" signature="39:631" ph="{...}" />
+                <marker date="1561359147963" expanded="true" signature="89:629" ph="{...}" />
+                <marker date="1561359147963" expanded="true" signature="183:203" ph="{...}" />
+                <marker date="1561359147963" expanded="true" signature="240:623" ph="{...}" />
+                <marker date="1561359147963" expanded="true" signature="303:613" ph="{...}" />
+                <marker date="1561359147963" expanded="true" signature="452:564" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -163,19 +203,34 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DoublyNode</find>
+      <find>element</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Node</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/NAU_Practices/SelectionSortMinAndMax.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlag.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NAU_Practices/BaseSort.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NAU_Practices/InsertionSortSimple.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NAU_Practices/ShakerSort.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NAU_Practices/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlagAndPosition.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NAU_Practices/Student.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/NAU_Practices/SelectionBubbleSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target1/BaseSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target1/ShakerSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6093231-4FDC-409C-9016-2B4A93AF8D0C/ee/ff20c5cd/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78AFCDD7-A608-4612-8C49-45F03EB135B8/c0/47accd6c/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target1/SelectionSortMinOrMax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target1/SelectionSortMinAndMax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6540B1B4-00C3-48CC-A8D4-8BAE1291645C/6d/d74567d0/LinkedList`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target1/BubbleSortWithFlagAndPosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target2/DoubleLinkedList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target1/SelectionBubbleSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target1/InsertionSortSimple.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target2/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Target1/BubbleSortWithFlag.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -186,6 +241,18 @@
         <option value="$PROJECT_DIR$/NAU_Practices/BaseSort.cs" />
         <option value="$PROJECT_DIR$/NAU_Practices/ShakerSort.cs" />
         <option value="$PROJECT_DIR$/NAU_Practices/Program.cs" />
+        <option value="$PROJECT_DIR$/Target2/Program.cs" />
+        <option value="$PROJECT_DIR$/Target2/Node.cs" />
+        <option value="$PROJECT_DIR$/Target1/BubbleSortWithFlag.cs" />
+        <option value="$PROJECT_DIR$/Target1/BubbleSortWithFlagAndPosition.cs" />
+        <option value="$PROJECT_DIR$/Target1/InsertionSortSimple.cs" />
+        <option value="$PROJECT_DIR$/Target1/SelectionSortMinAndMax.cs" />
+        <option value="$PROJECT_DIR$/Target1/ShakerSort.cs" />
+        <option value="$PROJECT_DIR$/Target1/BaseSort.cs" />
+        <option value="$PROJECT_DIR$/Target1/SelectionSortMinOrMax.cs" />
+        <option value="$PROJECT_DIR$/Target1/SelectionBubbleSort.cs" />
+        <option value="$PROJECT_DIR$/Target1/Program.cs" />
+        <option value="$PROJECT_DIR$/Target2/DoubleLinkedList.cs" />
       </list>
     </option>
   </component>
@@ -208,8 +275,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -220,13 +285,20 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="NAU_Practices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Target1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="NAU_Practices" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Target2" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,11 +353,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561356748000</updated>
       <workItem from="1561356749284" duration="1890000" />
+      <workItem from="1561358656790" duration="1481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1890000" />
+    <option name="totallyTimeSpent" value="3371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -300,18 +373,9 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986681" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25253063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" weight="0.3301282" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
@@ -319,18 +383,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" visible="true" weight="0.32977587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -343,142 +416,429 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/SelectionSortMinAndMax.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding>
-            <marker date="1561356725014" expanded="true" signature="23:667" ph="{...}" />
-            <marker date="1561356725014" expanded="true" signature="76:665" ph="{...}" />
-            <marker date="1561356725014" expanded="true" signature="157:177" ph="{...}" />
-            <marker date="1561356725014" expanded="true" signature="214:659" ph="{...}" />
-            <marker date="1561356725014" expanded="true" signature="316:649" ph="{...}" />
-            <marker date="1561356725014" expanded="true" signature="462:635" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/SelectionBubbleSort.cs">
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/SelectionSortMinAndMax.cs" />
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/SelectionBubbleSort.cs" />
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/StudentExtensions.cs" />
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/Student.cs" />
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/ShakerSort.cs" />
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlag.cs" />
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlagAndPosition.cs" />
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/InsertionSortSimple.cs" />
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/BaseSort.cs" />
+    <entry file="file://$PROJECT_DIR$/Target2/Node.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <marker date="1561357074959" expanded="true" signature="23:574" ph="{...}" />
-            <marker date="1561357074959" expanded="true" signature="75:572" ph="{...}" />
-            <marker date="1561357074959" expanded="true" signature="117:473" ph="{...}" />
-            <marker date="1561357074959" expanded="true" signature="290:463" ph="{...}" />
-            <marker date="1561357074959" expanded="true" signature="546:566" ph="{...}" />
+            <marker date="1561358820104" expanded="true" signature="17:255" ph="{...}" />
+            <marker date="1561358820104" expanded="true" signature="44:253" ph="{...}" />
+            <marker date="1561358820104" expanded="true" signature="78:123" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/StudentExtensions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/Student.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <marker date="1561356725016" expanded="true" signature="23:391" ph="{...}" />
-            <marker date="1561356725016" expanded="true" signature="50:389" ph="{...}" />
-            <marker date="1561356725016" expanded="true" signature="125:244" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/ShakerSort.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-          <folding>
-            <marker date="1561358412163" expanded="true" signature="23:967" ph="{...}" />
-            <marker date="1561358412163" expanded="true" signature="64:965" ph="{...}" />
-            <marker date="1561358412163" expanded="true" signature="133:153" ph="{...}" />
-            <marker date="1561358412163" expanded="true" signature="190:785" ph="{...}" />
-            <marker date="1561358412163" expanded="true" signature="305:775" ph="{...}" />
-            <marker date="1561358412163" expanded="true" signature="370:515" ph="{...}" />
-            <marker date="1561358412163" expanded="true" signature="592:737" ph="{...}" />
-            <marker date="1561358412163" expanded="true" signature="834:959" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlag.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding>
-            <marker date="1561357449354" expanded="true" signature="23:814" ph="{...}" />
-            <marker date="1561357449354" expanded="true" signature="72:812" ph="{...}" />
-            <marker date="1561357449354" expanded="true" signature="149:169" ph="{...}" />
-            <marker date="1561357449354" expanded="true" signature="206:806" ph="{...}" />
-            <marker date="1561357449354" expanded="true" signature="399:737" ph="{...}" />
-            <marker date="1561357449354" expanded="true" signature="486:719" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlagAndPosition.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <marker date="1561357637042" expanded="true" signature="23:764" ph="{...}" />
-            <marker date="1561357637042" expanded="true" signature="83:762" ph="{...}" />
-            <marker date="1561357637042" expanded="true" signature="171:191" ph="{...}" />
-            <marker date="1561357637042" expanded="true" signature="228:756" ph="{...}" />
-            <marker date="1561357637042" expanded="true" signature="383:690" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/InsertionSortSimple.cs">
+    <entry file="file://$PROJECT_DIR$/Target1/BubbleSortWithFlag.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding>
-            <marker date="1561357958985" expanded="true" signature="23:600" ph="{...}" />
-            <marker date="1561357958985" expanded="true" signature="73:598" ph="{...}" />
-            <marker date="1561357958985" expanded="true" signature="151:171" ph="{...}" />
-            <marker date="1561357958985" expanded="true" signature="208:592" ph="{...}" />
-            <marker date="1561357958985" expanded="true" signature="272:582" ph="{...}" />
-            <marker date="1561357958985" expanded="true" signature="421:533" ph="{...}" />
+            <marker date="1561359122679" expanded="true" signature="39:845" ph="{...}" />
+            <marker date="1561359122679" expanded="true" signature="88:843" ph="{...}" />
+            <marker date="1561359122679" expanded="true" signature="181:201" ph="{...}" />
+            <marker date="1561359122679" expanded="true" signature="238:837" ph="{...}" />
+            <marker date="1561359122679" expanded="true" signature="430:768" ph="{...}" />
+            <marker date="1561359122679" expanded="true" signature="517:750" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Target1/BubbleSortWithFlagAndPosition.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="6" column="53" lean-forward="true" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
           <folding>
-            <marker date="1561358453572" expanded="false" signature="6:47" ph="..." />
-            <marker date="1561358453572" expanded="true" signature="72:2423" ph="{...}" />
-            <marker date="1561358453572" expanded="true" signature="177:637" ph="{...}" />
-            <marker date="1561358453572" expanded="true" signature="1114:1358" ph="{...}" />
-            <marker date="1561358453572" expanded="true" signature="1493:2144" ph="{...}" />
-            <marker date="1561358453572" expanded="true" signature="2182:2420" ph="{...}" />
+            <marker date="1561359138280" expanded="true" signature="39:795" ph="{...}" />
+            <marker date="1561359138280" expanded="true" signature="99:793" ph="{...}" />
+            <marker date="1561359138280" expanded="true" signature="203:223" ph="{...}" />
+            <marker date="1561359138280" expanded="true" signature="260:787" ph="{...}" />
+            <marker date="1561359138280" expanded="true" signature="414:721" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/BaseSort.cs">
+    <entry file="file://$PROJECT_DIR$/Target1/InsertionSortSimple.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="180">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
           <folding>
-            <marker date="1561357902520" expanded="false" signature="6:55" ph="..." />
-            <marker date="1561357902520" expanded="true" signature="80:846" ph="{...}" />
-            <marker date="1561357902520" expanded="true" signature="117:584" ph="{...}" />
-            <marker date="1561357902520" expanded="true" signature="218:271" ph="{...}" />
-            <marker date="1561357902520" expanded="true" signature="371:578" ph="{...}" />
-            <marker date="1561357902520" expanded="true" signature="614:844" ph="{...}" />
-            <marker date="1561357902520" expanded="true" signature="675:753" ph="{...}" />
+            <marker date="1561359147963" expanded="true" signature="39:631" ph="{...}" />
+            <marker date="1561359147963" expanded="true" signature="89:629" ph="{...}" />
+            <marker date="1561359147963" expanded="true" signature="183:203" ph="{...}" />
+            <marker date="1561359147963" expanded="true" signature="240:623" ph="{...}" />
+            <marker date="1561359147963" expanded="true" signature="303:613" ph="{...}" />
+            <marker date="1561359147963" expanded="true" signature="452:564" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target1/SelectionSortMinAndMax.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <marker date="1561359159176" expanded="true" signature="39:698" ph="{...}" />
+            <marker date="1561359159176" expanded="true" signature="92:696" ph="{...}" />
+            <marker date="1561359159176" expanded="true" signature="189:209" ph="{...}" />
+            <marker date="1561359159176" expanded="true" signature="246:690" ph="{...}" />
+            <marker date="1561359159176" expanded="true" signature="347:680" ph="{...}" />
+            <marker date="1561359159176" expanded="true" signature="493:666" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6540B1B4-00C3-48CC-A8D4-8BAE1291645C/6d/d74567d0/LinkedList`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6093231-4FDC-409C-9016-2B4A93AF8D0C/ee/ff20c5cd/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="2051" column="9" lean-forward="true" selection-start-line="2051" selection-start-column="9" selection-end-line="2051" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target1/ShakerSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="65" lean-forward="true" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+          <folding>
+            <marker date="1561359437380" expanded="true" signature="39:998" ph="{...}" />
+            <marker date="1561359437380" expanded="true" signature="80:996" ph="{...}" />
+            <marker date="1561359437380" expanded="true" signature="165:185" ph="{...}" />
+            <marker date="1561359437380" expanded="true" signature="222:816" ph="{...}" />
+            <marker date="1561359437380" expanded="true" signature="336:806" ph="{...}" />
+            <marker date="1561359437380" expanded="true" signature="401:546" ph="{...}" />
+            <marker date="1561359437380" expanded="true" signature="623:768" ph="{...}" />
+            <marker date="1561359437380" expanded="true" signature="865:990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target1/BaseSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <marker date="1561359533200" expanded="false" signature="6:104" ph="..." />
+            <marker date="1561359533200" expanded="true" signature="129:934" ph="{...}" />
+            <marker date="1561359533200" expanded="true" signature="166:672" ph="{...}" />
+            <marker date="1561359533200" expanded="true" signature="288:359" ph="{...}" />
+            <marker date="1561359533200" expanded="true" signature="459:666" ph="{...}" />
+            <marker date="1561359533200" expanded="true" signature="702:932" ph="{...}" />
+            <marker date="1561359533200" expanded="true" signature="763:841" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target1/SelectionSortMinOrMax.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <marker date="1561359544632" expanded="true" signature="39:814" ph="{...}" />
+            <marker date="1561359544632" expanded="true" signature="91:812" ph="{...}" />
+            <marker date="1561359544632" expanded="true" signature="187:207" ph="{...}" />
+            <marker date="1561359544632" expanded="true" signature="244:806" ph="{...}" />
+            <marker date="1561359544632" expanded="true" signature="344:796" ph="{...}" />
+            <marker date="1561359544632" expanded="true" signature="440:620" ph="{...}" />
+            <marker date="1561359544632" expanded="true" signature="525:602" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target1/SelectionBubbleSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1561359553920" expanded="true" signature="39:605" ph="{...}" />
+            <marker date="1561359553920" expanded="true" signature="91:603" ph="{...}" />
+            <marker date="1561359553920" expanded="true" signature="133:488" ph="{...}" />
+            <marker date="1561359553920" expanded="true" signature="305:478" ph="{...}" />
+            <marker date="1561359553920" expanded="true" signature="577:597" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1561358723937" expanded="true" signature="17:127" ph="{...}" />
+            <marker date="1561358723937" expanded="true" signature="46:125" ph="{...}" />
+            <marker date="1561358723937" expanded="true" signature="99:119" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <marker date="1561359729048" expanded="false" signature="6:62" ph="..." />
+            <marker date="1561359729048" expanded="true" signature="87:2602" ph="{...}" />
+            <marker date="1561359729048" expanded="true" signature="116:2330" ph="{...}" />
+            <marker date="1561359729048" expanded="true" signature="186:817" ph="{...}" />
+            <marker date="1561359729048" expanded="true" signature="852:1246" ph="{...}" />
+            <marker date="1561359729048" expanded="true" signature="1293:1537" ph="{...}" />
+            <marker date="1561359729048" expanded="true" signature="1672:2323" ph="{...}" />
+            <marker date="1561359729048" expanded="true" signature="2361:2599" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78AFCDD7-A608-4612-8C49-45F03EB135B8/c0/47accd6c/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="701" column="13" lean-forward="true" selection-start-line="701" selection-start-column="13" selection-end-line="701" selection-end-column="13" />
+          <folding>
+            <marker date="1561359814927" expanded="true" signature="0:300" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1561359814927" expanded="false" signature="308:422" ph="..." />
+            <marker date="1561359814927" expanded="true" signature="460:69570" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="465:771" ph="///Represents a strongly typed list of objects that can be accessed by index. Provides methods to search, sort, a ... " />
+            <marker date="1561359814927" expanded="true" signature="1058:69568" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="1503:1556" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="1562:1960" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; class that is empty and h ... " />
+            <marker date="1561359814927" expanded="true" signature="2019:2307" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="2313:2796" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; class that contains eleme ... " />
+            <marker date="1561359814927" expanded="true" signature="2868:3504" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="3064:3341" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="3128:3193" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="3206:3333" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="3352:3498" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="3510:4139" ph="///Gets or sets the total number of elements the internal data structure can hold without resizing. ... " />
+            <marker date="1561359814927" expanded="true" signature="4192:4850" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="4233:4284" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="4319:4844" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="4574:4778" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="4856:5094" ph="///Gets the number of elements contained in the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt;. ... " />
+            <marker date="1561359814927" expanded="true" signature="5144:5234" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5185:5228" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5291:5376" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5332:5370" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5441:5526" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5482:5520" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5582:5667" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5623:5661" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5733:5818" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5774:5812" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5880:6106" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="5921:6100" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="6112:6584" ph="///Gets or sets the element at the specified index. ... " />
+            <marker date="1561359814927" expanded="true" signature="6642:7062" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="6683:6839" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="6874:7056" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="7120:7265" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="7328:7775" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="7369:7422" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="7457:7769" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="7567:7622" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="7662:7761" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="7781:8078" ph="///Adds an object to the end of the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt;. ... " />
+            <marker date="1561359814927" expanded="true" signature="8135:8299" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="8360:8671" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="8462:8506" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="8544:8636" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="8677:9279" ph="///Adds the elements of the specified collection to the end of the &lt;see cref=&quot;T:System.Collections.Generic.List`1 ... " />
+            <marker date="1561359814927" expanded="true" signature="9360:9420" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="9426:9714" ph="///Returns a read-only &lt;see cref=&quot;T:System.Collections.ObjectModel.ReadOnlyCollection`1&quot; /&gt; wrapper for the curre ... " />
+            <marker date="1561359814927" expanded="true" signature="9789:9858" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="9864:11858" ph="///Searches a range of elements in the sorted &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; for an element u ... " />
+            <marker date="1561359814927" expanded="true" signature="11968:12487" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="12493:13575" ph="///Searches the entire sorted &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; for an element using the default ... " />
+            <marker date="1561359814927" expanded="true" signature="13640:13726" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="13732:15160" ph="///Searches the entire sorted &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; for an element using the specifi ... " />
+            <marker date="1561359814927" expanded="true" signature="15248:15323" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="15486:15644" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="15518:15615" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="15650:16134" ph="///Determines whether an element is in the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt;. ... " />
+            <marker date="1561359814927" expanded="true" signature="16196:16683" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="16235:16426" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="16300:16396" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="16555:16657" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="16750:16866" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="16872:17628" ph="///Converts the elements in the current &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; to another type, and r ... " />
+            <marker date="1561359814927" expanded="true" signature="17706:18071" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="18077:18893" ph="///Copies the entire &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; to a compatible one-dimensional array, st ... " />
+            <marker date="1561359814927" expanded="true" signature="18956:18997" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="19084:19482" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="19236:19327" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="19371:19476" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="19488:21166" ph="///Copies a range of elements from the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; to a compatible one-dim ... " />
+            <marker date="1561359814927" expanded="true" signature="21267:21483" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="21489:22588" ph="///Copies the entire &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; to a compatible one-dimensional array, st ... " />
+            <marker date="1561359814927" expanded="true" signature="22667:22760" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="22802:23066" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="23072:23771" ph="///Determines whether the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; contains elements that match the con ... " />
+            <marker date="1561359814927" expanded="true" signature="23843:23897" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="23903:24571" ph="///Searches for an element that matches the conditions defined by the specified predicate, and returns the first  ... " />
+            <marker date="1561359814927" expanded="true" signature="24638:24921" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="24797:24889" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="24927:25566" ph="///Retrieves all the elements that match the conditions defined by the specified predicate. ... " />
+            <marker date="1561359814927" expanded="true" signature="25642:25966" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="25840:25938" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="25972:26661" ph="///Searches for an element that matches the conditions defined by the specified predicate, and returns the zero-b ... " />
+            <marker date="1561359814927" expanded="true" signature="26735:26798" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="26804:27868" ph="///Searches for an element that matches the conditions defined by the specified predicate, and returns the zero-b ... " />
+            <marker date="1561359814927" expanded="true" signature="27958:28043" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="28049:29438" ph="///Searches for an element that matches the conditions defined by the specified predicate, and returns the zero-b ... " />
+            <marker date="1561359814927" expanded="true" signature="29539:30194" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="30092:30171" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="30200:30866" ph="///Searches for an element that matches the conditions defined by the specified predicate, and returns the last o ... " />
+            <marker date="1561359814927" expanded="true" signature="30937:31225" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="31101:31193" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="31231:31918" ph="///Searches for an element that matches the conditions defined by the specified predicate, and returns the zero-b ... " />
+            <marker date="1561359814927" expanded="true" signature="31996:32076" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="32082:33154" ph="///Searches for an element that matches the conditions defined by the specified predicate, and returns the zero-b ... " />
+            <marker date="1561359814927" expanded="true" signature="33248:33328" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="33334:34728" ph="///Searches for an element that matches the conditions defined by the specified predicate, and returns the zero-b ... " />
+            <marker date="1561359814927" expanded="true" signature="34833:35692" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="34964:35140" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="35590:35669" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="35698:36312" ph="///Performs the specified action on each element of the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt;. ... " />
+            <marker date="1561359814927" expanded="true" signature="36383:36910" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="36916:37189" ph="///Returns an enumerator that iterates through the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt;. ... " />
+            <marker date="1561359814927" expanded="true" signature="37264:37319" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="37399:37471" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="37545:37614" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="37620:38502" ph="///Creates a shallow copy of a range of elements in the source &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; ... " />
+            <marker date="1561359814927" expanded="true" signature="38581:39196" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="39202:39757" ph="///Searches for the specified object and returns the zero-based index of the first occurrence within the entire &lt; ... " />
+            <marker date="1561359814927" expanded="true" signature="39817:39894" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="39959:40071" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="40077:41115" ph="///Searches for the specified object and returns the zero-based index of the first occurrence within the range of ... " />
+            <marker date="1561359814927" expanded="true" signature="41186:41428" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="41434:42827" ph="///Searches for the specified object and returns the zero-based index of the first occurrence within the range of ... " />
+            <marker date="1561359814927" expanded="true" signature="42909:43312" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="43318:43911" ph="///Inserts an element into the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; at the specified index. ... " />
+            <marker date="1561359814927" expanded="true" signature="43982:44461" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="44537:44829" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="44639:44693" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="44731:44823" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="44835:45777" ph="///Inserts the elements of a collection into the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; at the specif ... " />
+            <marker date="1561359814927" expanded="true" signature="45872:47094" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="46235:46963" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="46298:46955" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="46529:46748" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="46763:46914" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="46974:47065" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="47100:47657" ph="///Searches for the specified object and returns the zero-based index of the last occurrence within the entire &lt;s ... " />
+            <marker date="1561359814927" expanded="true" signature="47721:47844" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="47850:48862" ph="///Searches for the specified object and returns the zero-based index of the last occurrence within the range of  ... " />
+            <marker date="1561359814927" expanded="true" signature="48937:49158" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="49164:50525" ph="///Searches for the specified object and returns the zero-based index of the last occurrence within the range of  ... " />
+            <marker date="1561359814927" expanded="true" signature="50611:51415" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="51421:52035" ph="///Removes the first occurrence of a specific object from the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt;. ... " />
+            <marker date="1561359814927" expanded="true" signature="52095:52235" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="52300:52402" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="52408:52909" ph="///Removes all the elements that match the conditions defined by the specified predicate. ... " />
+            <marker date="1561359814927" expanded="true" signature="52983:53679" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="53307:53499" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="53685:54142" ph="///Removes the element at the specified index of the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt;. ... " />
+            <marker date="1561359814927" expanded="true" signature="54207:54538" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="54544:55236" ph="///Removes a range of elements from the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt;. ... " />
+            <marker date="1561359814927" expanded="true" signature="55315:56065" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="56249:56296" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="56302:56969" ph="///Reverses the order of the elements in the specified range. ... " />
+            <marker date="1561359814927" expanded="true" signature="57044:57563" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="57569:58038" ph="///Sorts the elements in the entire &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; using the default comparer ... " />
+            <marker date="1561359814927" expanded="true" signature="58090:58155" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="58161:59210" ph="///Sorts the elements in the entire &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; using the specified compar ... " />
+            <marker date="1561359814927" expanded="true" signature="59283:59337" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="59343:60897" ph="///Sorts the elements in a range of elements in &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; using the spec ... " />
+            <marker date="1561359814927" expanded="true" signature="60992:61513" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="61519:62184" ph="///Sorts the elements in the entire &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; using the specified &lt;see c ... " />
+            <marker date="1561359814927" expanded="true" signature="62260:62524" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="62530:62775" ph="///Copies the elements of the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; to a new array. ... " />
+            <marker date="1561359814927" expanded="true" signature="62829:62979" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="63222:63351" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="63357:64110" ph="///Determines whether every element in the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt; matches the conditi ... " />
+            <marker date="1561359814927" expanded="true" signature="64186:64450" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="64345:64425" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="64507:64579" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="64691:66682" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="64801:64896" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="64920:65033" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="64940:65025" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="65063:65170" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="65083:65162" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="65201:65275" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="65302:65374" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="65410:65496" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="65549:65639" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="65673:65757" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="65804:65905" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="65958:66064" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="66096:66309" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="66116:66202" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="66214:66301" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="66343:66428" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="66473:66557" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="66596:66676" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="66911:69564" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="67063:67203" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="67390:67406" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="67414:67887" ph="///Advances the enumerator to the next element of the &lt;see cref=&quot;T:System.Collections.Generic.List`1&quot; /&gt;. ... " />
+            <marker date="1561359814927" expanded="true" signature="67947:68211" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="68246:68518" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="68526:68750" ph="///Gets the element at the current position of the enumerator. ... " />
+            <marker date="1561359814927" expanded="true" signature="68804:68908" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="68849:68900" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="68973:69263" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="69018:69255" ph="{...}" />
+            <marker date="1561359814927" expanded="true" signature="69326:69558" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target2/DoubleLinkedList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="114" column="42" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
+          <folding>
+            <marker date="1561360076542" expanded="true" signature="6:59" ph="..." />
+            <marker date="1561360076542" expanded="true" signature="78:3598" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="128:3596" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="257:553" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="392:494" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="591:884" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="939:1015" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="1051:1952" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="1135:1314" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="1196:1259" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="1348:1915" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="1404:1502" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="1523:1605" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="1652:1746" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="1767:1845" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="2058:2154" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="2192:2460" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="2275:2423" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="2509:2586" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="2641:2845" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="2724:2835" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="2893:3101" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="2976:3091" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="3137:3170" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="3217:3293" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="3334:3410" ph="{...}" />
+            <marker date="1561360076542" expanded="true" signature="3444:3590" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,15 +1,17 @@
+using Target2;
+
 namespace NAU_Practices
 {
     public class ShakerSort : BaseSort
     {
-        public ShakerSort(Student[] students) : base(students)
+        public ShakerSort(DoubleLinkedList<Student> students) : base(students)
         {
         }
 
         public override void Sort()
         {
             int left = 0,
-                right = Students.Length - 1;
+                right = Students.Count - 1;
 
             while (left < right)
             {

@@ -1,23 +1,26 @@
 ﻿using System;
 using System.Collections.Generic;
+using Target2;
 
 namespace NAU_Practices
 {
     internal class Program
     {
-        private static Student[] InitStudents() => new[]
-            {
-                new Student("AA", 1, false),
-                new Student("AE", 2, false),
-                new Student("AI", 5, false),
-                new Student("AH", 4, true),
-                new Student("AF", 3, true),
-                new Student("AG", 4, false),
-                new Student("AB", 1, true),
-                new Student("AD", 2, true),
-                new Student("AJ", 5, true),
-                new Student("AC", 2, false),
-            };
+        private static DoubleLinkedList<Student> InitStudents()
+        {
+            var list = new DoubleLinkedList<Student>();
+            list.AddFirst(new Student("AA", 1, false));
+            list.AddFirst(new Student("AE", 2, false));
+            list.AddFirst(new Student("AI", 5, false));
+            list.AddFirst(new Student("AH", 4, true));
+            list.AddFirst(new Student("AF", 3, true));
+            list.Add(new Student("AG", 4, false));
+            list.Add(new Student("AB", 1, true));
+            list.Add(new Student("AD", 2, true));
+            list.Add(new Student("AJ", 5, true));
+            list.Add(new Student("AC", 2, false));
+            return list;
+        }
 
         public static void Main()
         {

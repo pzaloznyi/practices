@@ -1,16 +1,18 @@
 using System;
+using System.Collections.Generic;
 using System.Linq;
 using Newtonsoft.Json;
+using Target2;
 
 namespace NAU_Practices
 {
     public abstract class BaseSort
     {
-        protected readonly Student[] Students;
+        protected readonly IList<Student> Students;
 
-        protected BaseSort(Student[] students)
+        protected BaseSort(DoubleLinkedList<Student> students)
         {
-            Students = students;
+            Students = students as IList<Student>;
         }
 
         public abstract void Sort();

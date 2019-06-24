@@ -1,10 +1,16 @@
+using Target2;
+
 namespace NAU_Practices
 {
     public class SelectionSortMinOrMax : BaseSort
     {
+        public SelectionSortMinOrMax(DoubleLinkedList<Student> students) : base(students)
+        {
+        }
+
         public override void Sort()
         {
-            var length = Students.Length;
+            var length = Students.Count;
             for (var i = 0; i < length - 1; i++)
             {
                 var min = i;
@@ -21,10 +27,6 @@ namespace NAU_Practices
                 Students[i] = Students[min];
                 Students[min] = tmp;
             }
-        }
-
-        public SelectionSortMinOrMax(Student[] students) : base(students)
-        {
         }
     }
 }
