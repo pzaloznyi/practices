@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5863cef1-26fa-4106-84ea-12599f823be1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlagAndPosition.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NAU_Practices/InsertionSortSimple.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlag.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlag.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAU_Practices/NAU_Practices.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/NAU_Practices/NAU_Practices.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAU_Practices/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NAU_Practices/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAU_Practices/SelectionBubbleSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NAU_Practices/SelectionBubbleSort.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAU_Practices/SelectionSortMinOrMax.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NAU_Practices/SelectionSortMinOrMax.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAU_Practices/ShakerSort.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NAU_Practices/ShakerSort.cs" afterDir="false" />
-    </list>
+    <list default="true" id="5863cef1-26fa-4106-84ea-12599f823be1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NAU_Practices/BaseSort.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+            <state relative-caret-position="315">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <marker date="1561357902520" expanded="false" signature="6:55" ph="..." />
                 <marker date="1561357902520" expanded="true" signature="80:846" ph="{...}" />
@@ -32,6 +23,20 @@
                 <marker date="1561357902520" expanded="true" signature="371:578" ph="{...}" />
                 <marker date="1561357902520" expanded="true" signature="614:844" ph="{...}" />
                 <marker date="1561357902520" expanded="true" signature="675:753" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAU_Practices/Student.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <folding>
+                <marker date="1561356725016" expanded="true" signature="23:391" ph="{...}" />
+                <marker date="1561356725016" expanded="true" signature="50:389" ph="{...}" />
+                <marker date="1561356725016" expanded="true" signature="125:244" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -90,15 +95,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NAU_Practices/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+            <state relative-caret-position="555">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
               <folding>
-                <marker date="1561357995148" expanded="false" signature="6:47" ph="..." />
-                <marker date="1561357995148" expanded="true" signature="72:2423" ph="{...}" />
-                <marker date="1561357995148" expanded="true" signature="177:637" ph="{...}" />
-                <marker date="1561357995148" expanded="true" signature="1114:1358" ph="{...}" />
-                <marker date="1561357995148" expanded="true" signature="1493:2144" ph="{...}" />
-                <marker date="1561357995148" expanded="true" signature="2182:2420" ph="{...}" />
+                <marker date="1561358453572" expanded="false" signature="6:47" ph="..." />
+                <marker date="1561358453572" expanded="true" signature="72:2423" ph="{...}" />
+                <marker date="1561358453572" expanded="true" signature="177:637" ph="{...}" />
+                <marker date="1561358453572" expanded="true" signature="1114:1358" ph="{...}" />
+                <marker date="1561358453572" expanded="true" signature="1493:2144" ph="{...}" />
+                <marker date="1561358453572" expanded="true" signature="2182:2420" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -107,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlag.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="285">
+              <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
               <folding>
                 <marker date="1561357449354" expanded="true" signature="23:814" ph="{...}" />
                 <marker date="1561357449354" expanded="true" signature="72:812" ph="{...}" />
@@ -140,13 +145,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/NAU_Practices/ShakerSort.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            <state relative-caret-position="70">
+              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
               <folding>
-                <marker date="1561357738888" expanded="true" signature="23:231" ph="{...}" />
-                <marker date="1561357738888" expanded="true" signature="64:229" ph="{...}" />
-                <marker date="1561357738888" expanded="true" signature="133:153" ph="{...}" />
-                <marker date="1561357738888" expanded="true" signature="190:223" ph="{...}" />
+                <marker date="1561358412163" expanded="true" signature="23:967" ph="{...}" />
+                <marker date="1561358412163" expanded="true" signature="64:965" ph="{...}" />
+                <marker date="1561358412163" expanded="true" signature="133:153" ph="{...}" />
+                <marker date="1561358412163" expanded="true" signature="190:785" ph="{...}" />
+                <marker date="1561358412163" expanded="true" signature="305:775" ph="{...}" />
+                <marker date="1561358412163" expanded="true" signature="370:515" ph="{...}" />
+                <marker date="1561358412163" expanded="true" signature="592:737" ph="{...}" />
+                <marker date="1561358412163" expanded="true" signature="834:959" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -165,6 +174,7 @@
     <setting file="file://$PROJECT_DIR$/NAU_Practices/ShakerSort.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NAU_Practices/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlagAndPosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NAU_Practices/Student.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/NAU_Practices/SelectionBubbleSort.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -172,10 +182,10 @@
       <list>
         <option value="$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlag.cs" />
         <option value="$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlagAndPosition.cs" />
-        <option value="$PROJECT_DIR$/NAU_Practices/ShakerSort.cs" />
         <option value="$PROJECT_DIR$/NAU_Practices/InsertionSortSimple.cs" />
-        <option value="$PROJECT_DIR$/NAU_Practices/Program.cs" />
         <option value="$PROJECT_DIR$/NAU_Practices/BaseSort.cs" />
+        <option value="$PROJECT_DIR$/NAU_Practices/ShakerSort.cs" />
+        <option value="$PROJECT_DIR$/NAU_Practices/Program.cs" />
       </list>
     </option>
   </component>
@@ -223,6 +233,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Target1/NAU_Practices.csproj" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
@@ -241,14 +252,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/NAU_Practices/bin/Debug/NAU_Practices.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Target1/bin/Debug/Target1.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAU_Practices/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Target1/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NAU_Practices/NAU_Practices.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Target1/Target1.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -269,12 +280,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561356748000</updated>
-      <workItem from="1561356749284" duration="1508000" />
+      <workItem from="1561356749284" duration="1890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1508000" />
+    <option name="totallyTimeSpent" value="1890000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -286,11 +297,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986681" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986681" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -300,7 +311,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.3301282" />
+      <window_info anchor="bottom" id="Build" weight="0.3301282" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
@@ -361,10 +372,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/StudentExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <marker date="1561356725016" expanded="true" signature="23:391" ph="{...}" />
+            <marker date="1561356725016" expanded="true" signature="50:389" ph="{...}" />
+            <marker date="1561356725016" expanded="true" signature="125:244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAU_Practices/ShakerSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <marker date="1561358412163" expanded="true" signature="23:967" ph="{...}" />
+            <marker date="1561358412163" expanded="true" signature="64:965" ph="{...}" />
+            <marker date="1561358412163" expanded="true" signature="133:153" ph="{...}" />
+            <marker date="1561358412163" expanded="true" signature="190:785" ph="{...}" />
+            <marker date="1561358412163" expanded="true" signature="305:775" ph="{...}" />
+            <marker date="1561358412163" expanded="true" signature="370:515" ph="{...}" />
+            <marker date="1561358412163" expanded="true" signature="592:737" ph="{...}" />
+            <marker date="1561358412163" expanded="true" signature="834:959" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NAU_Practices/BubbleSortWithFlag.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="285">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
           <folding>
             <marker date="1561357449354" expanded="true" signature="23:814" ph="{...}" />
             <marker date="1561357449354" expanded="true" signature="72:812" ph="{...}" />
@@ -390,19 +437,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NAU_Practices/ShakerSort.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <marker date="1561357738888" expanded="true" signature="23:231" ph="{...}" />
-            <marker date="1561357738888" expanded="true" signature="64:229" ph="{...}" />
-            <marker date="1561357738888" expanded="true" signature="133:153" ph="{...}" />
-            <marker date="1561357738888" expanded="true" signature="190:223" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NAU_Practices/InsertionSortSimple.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -420,23 +454,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NAU_Practices/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        <state relative-caret-position="555">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding>
-            <marker date="1561357995148" expanded="false" signature="6:47" ph="..." />
-            <marker date="1561357995148" expanded="true" signature="72:2423" ph="{...}" />
-            <marker date="1561357995148" expanded="true" signature="177:637" ph="{...}" />
-            <marker date="1561357995148" expanded="true" signature="1114:1358" ph="{...}" />
-            <marker date="1561357995148" expanded="true" signature="1493:2144" ph="{...}" />
-            <marker date="1561357995148" expanded="true" signature="2182:2420" ph="{...}" />
+            <marker date="1561358453572" expanded="false" signature="6:47" ph="..." />
+            <marker date="1561358453572" expanded="true" signature="72:2423" ph="{...}" />
+            <marker date="1561358453572" expanded="true" signature="177:637" ph="{...}" />
+            <marker date="1561358453572" expanded="true" signature="1114:1358" ph="{...}" />
+            <marker date="1561358453572" expanded="true" signature="1493:2144" ph="{...}" />
+            <marker date="1561358453572" expanded="true" signature="2182:2420" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NAU_Practices/BaseSort.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        <state relative-caret-position="315">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <marker date="1561357902520" expanded="false" signature="6:55" ph="..." />
             <marker date="1561357902520" expanded="true" signature="80:846" ph="{...}" />
